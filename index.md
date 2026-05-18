@@ -4,9 +4,9 @@ title: The Cheng's Category
 ---
 
 
-# Welcome to the Cheng's Category
+# Welcome
 
-This is an perspective, exploratory, and open-minded space.
+This is an perspective, exploratory, and open-minded space that represents my professional profile.
 
 ---
 

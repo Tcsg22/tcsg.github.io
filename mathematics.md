@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mathematics
+title: Mathematics
 permalink: /mathematics/
 ---
 
