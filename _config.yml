@@ -1,3 +1,15 @@
 title: Tcsg22
 description: Philosophy, science, mathematics, and music
 remote_theme: "jekyll/minima@1e8a445"
+
+- title: Science
+  url: /science/
+
+- title: Philosophy
+  url: /philosophy/
+
+- title: Mathematics
+  url: /mathematics/
+
+- title: Stories
+  url: /stories/
