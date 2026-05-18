@@ -4,9 +4,9 @@ title: The Cheng's Category
 ---
 
 
-# Let there be a website
+# Welcome to the Cheng's Category
 
-An objective, exploratory, and open-minded space.
+This is an perspective, exploratory, and open-minded space.
 
 ---
 
