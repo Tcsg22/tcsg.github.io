@@ -1,3 +1,8 @@
-title: Tcsg22
+title: The Cheng's Category
 description: Philosophy, science, mathematics, and music
 remote_theme: "jekyll/minima@1e8a445"
+header_pages:
+  - science.md
+  - philosophy.md
+  - mathematics.md
+  - stories.md
