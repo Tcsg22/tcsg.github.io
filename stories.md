@@ -12,4 +12,15 @@ For example, I believe that we are currently living in a civilisation upgrade (w
 
 On the other hand, there are much to say, not just about this era, but what it means to be living as a person in a specific cultural upbringing. How much does the wise in our past says are still valid in the present tense, and how much is a tradition still the way it is without the risk of getting commercialised? Anyway, this is the space for this sort of topics that I will unintentionally write about. 
 
+## Poems
 
+The following are the poems I have experimented with. 
+
+- [Encountering](/stories/encountering/)
+
+
+## Short Essay
+
+Sometimes I also write about my observations about things.
+
+- [Era](stories/the_end_of_an_era/)
