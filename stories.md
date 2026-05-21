@@ -23,4 +23,4 @@ The following are the poems I have experimented with.
 
 Sometimes I also write about my observations about things.
 
-- [Era](stories/the_end_of_an_era/)
+- [Era](/stories/the_end_of_an_era/)
