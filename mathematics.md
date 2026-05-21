@@ -20,4 +20,4 @@ On a very rare occasion, I will document my findings in mathematics which I have
 
 Prof. Baez is a mathematical physicist who works on higher category theory. For example, his explanation of Octonion is self-contained, and with some works, intuitive to understand. His explanation of the Dynkin diagram through the lens of Coxeter diagram also demystifies the characterzation of Lie algebra. Some of my reviews in mathematics may reference his explanation. 
 
-[Prof. John Baez's personal page] https://math.ucr.edu/home/baez/README.html
+[Prof. John Baez's personal page](https://math.ucr.edu/home/baez/README.html)
