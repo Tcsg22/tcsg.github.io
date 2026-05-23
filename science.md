@@ -12,4 +12,3 @@ This page serves two purposes. Firstly, it includes all of the necessary informa
 
 [Download CV](/assets/documents/CV_2026.pdf)
 
-
