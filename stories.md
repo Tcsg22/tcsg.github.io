@@ -18,6 +18,8 @@ The following are the poems I have experimented with.
 
 - [Encountering](/stories/encountering/)
 
+- [Silence](/stories/silence/)
+
 
 ## Short Essay
 
